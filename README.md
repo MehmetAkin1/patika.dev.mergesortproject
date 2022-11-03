@@ -40,4 +40,6 @@ Proje 2
 
         
 # Big-O gösterimini yazınız.    
-         O(n.logn)
+         O(n.logn)  
+         
+# www.patika.dev         
